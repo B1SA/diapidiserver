@@ -1,0 +1,10 @@
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\Interop.SBODI_Server.dll
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\DIServer_and_DIAPI_Sample.Properties.Resources.resources
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DIServer_and_DIAPI_Sample.exe
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\DIServer_and_DIAPI_Sample.pdb
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\DIServer_and_DIAPI_Sample.exe
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\DIServer_and_DIAPI_Sample.pdb
+C:\Users\Ralph\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\Interop.SAPbobsCOM.dll
